@@ -3,14 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <title>Customer Support Chatbot README</title>
-  <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; max-width: 900px; margin: auto; }
-    h1, h2, h3 { color: #2c3e50; }
-    pre { background: #f4f4f4; padding: 10px; border-radius: 5px; overflow-x: auto; }
-    code { font-family: Consolas, monospace; background: #f4f4f4; padding: 2px 4px; border-radius: 3px; }
-    hr { border: 0; border-top: 1px solid #ccc; margin: 30px 0; }
-    ul { margin-left: 20px; }
-  </style>
+  
 </head>
 <body>
 
