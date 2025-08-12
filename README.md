@@ -38,17 +38,22 @@
 <h2>Project Structure</h2>
 <pre><code>customer_support/
 ├── backend/
-│   ├── rag_module.py       # RAG retrieval logic
-│   ├── emotion_module.py   # Emotion + intensity detection
-│   ├── main.py             # FastAPI backend server
+│   ├── rag_module.py          # RAG retrieval logic
+│   ├── emotion_module.py      # Emotion and intensity detection
+│   ├── main.py                # FastAPI backend server
+│   ├── preprocess_data.py     # Data preprocessing script
+│   ├── build_index.py         # Script to build FAISS index
 │   └── data/
-│       ├── customer_support.index  # FAISS index file
-│       └── customer_support_df.pkl # Knowledge base DataFrame
+│       ├── Bitext_Sample_Customer_Support.csv  # Sample customer support data (assuming)
+│       ├── customer_support.index               # FAISS index file
+│       ├── customer_support_cleaned_data.csv    # Cleaned data file
+│       └── customer_support_df.pkl               # Knowledge base DataFrame
 ├── frontend/
-│   └── app.py              # Streamlit frontend app
-├── requirements.txt
-└── README.md
+│   └── app.py                 # Streamlit frontend app
+├── requirements.txt           # Python dependencies
+└── README.md                  # Project documentation
 </code></pre>
+
 
 <hr />
 
