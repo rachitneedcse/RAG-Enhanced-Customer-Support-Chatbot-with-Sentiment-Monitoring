@@ -8,8 +8,6 @@
 
 <h1>Customer Support Chatbot with RAG & Emotion Intensity Detection</h1>
 
-<p>This repository contains a customer support chatbot that uses Retrieval-Augmented Generation (RAG) to answer user queries based on a custom knowledge base, along with emotion intensity detection for each user message.</p>
-
 <hr />
 
 <p>This project builds an AI-powered customer support chatbot with these features:</p>
