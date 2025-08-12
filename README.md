@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   
-  
 </head>
 <body>
 
@@ -111,7 +110,7 @@ venv\Scripts\activate     # Windows
 <hr />
 
 <h2>Contact</h2>
-<p>For questions or contributions, please contact <a href="mailto:rachitguptacse.098@gmail.com">rachitguptacse.098@gmail.com</a>.</p>
+<p>For questions or contributions, please contact <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
 
 </body>
 </html>
