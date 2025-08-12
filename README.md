@@ -104,20 +104,9 @@ venv\Scripts\activate     # Windows
 
 <h2>Model Details</h2>
 <ul>
-  <li><strong>RAG Embeddings:</strong> Uses <code>all-MiniLM-L6-v2</code> Sentence Transformer model for embedding queries and knowledge base documents.</li>
+  <li><strong>RAG Embeddings:</strong> Uses <code>msmarco-distilbert-base-v4</code> Sentence Transformer model for embedding queries and knowledge base documents.</li>
   <li><strong>Emotion Detection:</strong> Uses a fine-tuned BERT model for multi-label emotion intensity prediction.</li>
   <li><strong>FAISS:</strong> Efficient vector similarity search on the knowledge base.</li>
-</ul>
-
-<hr />
-
-<h2>Future Improvements</h2>
-<ul>
-  <li>Fine-tune embeddings on customer support domain data for better accuracy.</li>
-  <li>Add multi-turn conversation context to improve responses.</li>
-  <li>Deploy backend and frontend to a cloud platform.</li>
-  <li>Add user authentication and chat history storage.</li>
-  <li>Integrate human alerting system based on emotion intensity thresholds.</li>
 </ul>
 
 <hr />
@@ -128,7 +117,7 @@ venv\Scripts\activate     # Windows
 <hr />
 
 <h2>Contact</h2>
-<p>For questions or contributions, please contact <a href="mailto:your-email@example.com">your-email@example.com</a>.</p>
+<p>For questions or contributions, please contact <a href="mailto:rachitguptacse.098@gmail.com">rachitguptacse.098@gmail.com</a>.</p>
 
 </body>
 </html>
