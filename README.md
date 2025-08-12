@@ -12,6 +12,17 @@
 
 <hr />
 
+<p>This project builds an AI-powered customer support chatbot with these features:</p>
+
+<ul>
+  <li><strong>Retrieval-Augmented Generation (RAG):</strong> Finds the best answers from a knowledge base of past questions and answers. This ensures accurate and relevant replies.</li>
+  <li><strong>Emotion Intensity Detection:</strong> Analyzes messages to detect key emotions like anger, joy, sadness, fear, and surprise, and measures how strong they are.</li>
+  <li><strong>Alert System:</strong> When emotions like anger or frustration are very strong, it triggers an alert and sends an email to a human support agent using contacts stored in the database.</li>
+  <li><strong>Seamless Integration:</strong> Both RAG and emotion detection work together via one backend API. The chatbot gives helpful answers with emotional context.</li>
+  <li><strong>User-Friendly Interface:</strong> A Streamlit frontend where users chat naturally, and both the bot’s reply and detected emotions are shown clearly.</li>
+</ul>
+
+
 <h2>Why Emotion Detection in Customer Support?</h2>
 
 <p>In customer support, understanding not just <em>what</em> a customer says, but <em>how</em> they feel, is critical. Emotions such as frustration, anger, or sadness can signal urgent issues or dissatisfied customers needing immediate attention. Detecting emotions in real-time helps businesses:</p>
