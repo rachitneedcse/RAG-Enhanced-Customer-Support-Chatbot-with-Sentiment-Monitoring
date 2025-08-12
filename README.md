@@ -12,12 +12,16 @@
 
 <hr />
 
-<h2>Features</h2>
+<h2>Why Emotion Detection in Customer Support?</h2>
+
+<p>In customer support, understanding not just <em>what</em> a customer says, but <em>how</em> they feel, is critical. Emotions such as frustration, anger, or sadness can signal urgent issues or dissatisfied customers needing immediate attention. Detecting emotions in real-time helps businesses:</p>
+
 <ul>
-  <li><strong>RAG-based retrieval:</strong> Uses FAISS with Sentence Transformers embeddings to find the most relevant answer from a customer support knowledge base.</li>
-  <li><strong>Emotion &amp; intensity detection:</strong> Analyzes user input to detect emotions like anger, joy, sadness, fear, and surprise with intensity scores.</li>
-  <li><strong>Integrated backend:</strong> FastAPI backend serves both RAG answers and emotion detection results in a single API endpoint.</li>
-  <li><strong>Streamlit frontend:</strong> Simple UI for users to chat with the bot and see emotion intensity feedback in real time.</li>
+  <li><strong>Improve customer satisfaction:</strong> By identifying unhappy or frustrated customers early, support agents can prioritize and tailor their responses to calm and solve issues faster.</li>
+  <li><strong>Enhance agent efficiency:</strong> Emotion insights allow automatic alerts for high-intensity emotional messages, enabling timely human intervention or escalation.</li>
+  <li><strong>Gain actionable insights:</strong> Aggregated emotion data reveals trends about product issues or service quality, guiding improvements.</li>
+  <li><strong>Personalize user experience:</strong> Emotion-aware chatbots can adjust tone or responses to better empathize with customers, creating a more human-like support experience.</li>
+  <li><strong>Enable alert systems:</strong> Automated alerts notify human agents when customer emotions reach critical intensity, ensuring urgent issues get immediate attention.</li>
 </ul>
 
 <hr />
